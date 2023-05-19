@@ -26,6 +26,7 @@
     z-index: 2;
     color: yellow;
     display: flexbox;
+    text-decoration: darkorange;
 }
 
 /* Score Board */
