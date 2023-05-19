@@ -25,7 +25,7 @@
     font-size: 4rem;
     z-index: 2;
     color: yellow;
-    display: flexbox;
+    font-style: italic;
     text-decoration: darkorange;
 }
 
